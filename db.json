@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxTPVK4pV9fqQsLv4YlYCQ6TyTdwrIQTA_Gg&usqp=CAU",
+      "brand": "puma",
+      "price": 400,
+      "color": "blue",
+      "gender": "men",
+      "category": "topwear"
+    },
+    {
+      "name": "shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMNnuM_a0ZYUKdb8Jj4R_vhrkZUDUyXSOHQ&usqp=CAU",
+      "brand": "nike",
+      "price": 3000,
+      "gender": "men",
+      "category": "top waer",
+      "color": "red",
+      "id": 2
+    },
+    {
+      "name": "T-shirt",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ_owIqVKCHsdvTyvQ7VahbDNgzBQtekH8C1IN3XXG9XLShUWwYPZ5zVVEWbSJNunpucw&usqp=CAU",
+      "brand": "puma",
+      "price": 2000,
+      "gender": "men",
+      "category": "top waer",
+      "color": "white",
+      "id": 3
+    },
+    {
+      "name": "shoes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCMLb7u0djNa4BUNt-whMDFPzgJhYcuDJf7Q&usqp=CAU",
+      "brand": "asian",
+      "price": 700,
+      "gender": "women",
+      "category": "foot wear",
+      "color": "white",
+      "id": 4
+    },
+    {
+      "name": "shoes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNthl0eBYdB9Wub9Di6HAjhQg6Hkhi8j1PJA&usqp=CAU",
+      "brand": "nike",
+      "price": 1500,
+      "gender": "women",
+      "category": "foot wear",
+      "color": "green",
+      "id": 5
+    },
+    {
+      "name": "shoes",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgR1Lq1sdRV46UJ4ZKyuRUA_p-oTWDRB-qg&usqp=CAU",
+      "brand": "campus",
+      "price": 1600,
+      "gender": "men",
+      "category": "foot wear",
+      "color": "black",
+      "id": 6
+    },
+    {
+      "name": "men pants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUQfvlfJHr04LMhQDUeDX-CLHQBIZy185Skg&usqp=CAU",
+      "brand": "puma",
+      "price": 800,
+      "gender": "men",
+      "category": "bottom wear",
+      "color": "white",
+      "id": 7
+    },
+    {
+      "name": "men pants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgfA_JxR6NWLLAnaO2fpnFh_7c_EnFvtBOQ&usqp=CAU",
+      "brand": "puma",
+      "price": 900,
+      "gender": "men",
+      "category": "bottom wear",
+      "color": "black",
+      "id": 8
+    },
+    {
+      "name": "men pants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TD9UlOrV_M07VPFrQqZ42PNsYLWpmvSamA&usqp=CAU",
+      "brand": "campus",
+      "price": 1200,
+      "gender": "men",
+      "category": "bottom wear",
+      "color": "red",
+      "id": 9
+    },
+    {
+      "name": "men pants",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZrzNJpyUCOrI6bdASGF6iW73LVH-TKrQ-Q&usqp=CAU",
+      "brand": "campus",
+      "price": 700,
+      "gender": "kids",
+      "category": "bottom wear",
+      "color": "green",
+      "id": 10
+    }
+  ]
+}
