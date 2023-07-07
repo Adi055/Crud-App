@@ -11,3 +11,16 @@ export const PrivateRoute=({children})=>{
 
     return children
 }
+
+
+<div>
+    <input type="email" id="one"/>
+    <input type="name" id="two"/>
+    <input type="password" id="three"/>
+    <button>Submit</button>
+</div>
+
+
+
+
+
